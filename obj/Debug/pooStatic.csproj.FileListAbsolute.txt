@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\bin\Debug\pooStatic.exe.config
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\bin\Debug\pooStatic.exe
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\bin\Debug\pooStatic.pdb
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\obj\Debug\pooStatic.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\obj\Debug\pooStatic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\obj\Debug\pooStatic.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\obj\Debug\pooStatic.exe
+C:\Users\Caetano\source\repos\pooStatic\pooStatic\obj\Debug\pooStatic.pdb
